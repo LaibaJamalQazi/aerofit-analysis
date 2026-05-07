@@ -58,9 +58,9 @@ The objective of this case study is to analyze customer characteristics for each
 
 ## 📂 Repository Structure
 - `README.md` – Project overview and insights  
-- `aerofit_analysis.ipynb` – Jupyter Notebook with step-by-step analysis  
-- `aerofit_analysis.py` – Python script version of the workflow  
-- `data/aerofit_treadmill.csv` – Dataset used for analysis  
+- `AerofitCS.ipynb` – Jupyter Notebook with step-by-step analysis  
+- `aerofitcs.py` – Python script version of the workflow  
+
 
 ---
 
